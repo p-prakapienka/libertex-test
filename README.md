@@ -18,6 +18,6 @@ docker-compose up
 
 ## API
 
-GET  /api/user - get all users
-POST /api/user - create new user
-PUT  /api/user - update existing user
+GET  /api/user - get all users  
+POST /api/user - create new user  
+PUT  /api/user - update existing user  
